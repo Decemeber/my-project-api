@@ -26,7 +26,14 @@ npm install
 ## 发布
 ```bash
 # 构建测试环境
-npm run build:sit
+{
+    timeLine:[6:00,6:15],
+    equipNode:[],
+    detailData:{
+        '单程票':[1,2,3,4,5,1,2,1],
+        '出站票':[2,3,4,5,6,7,8,9]
+    }
+}
 
 # 构建生成环境
 npm run build:prod
