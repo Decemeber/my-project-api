@@ -92,4 +92,4 @@
 
 ## License
 
-[MIT](https://github.com/Decemeber/my-project-api/LICENSE)
+[MIT](https://github.com/Decemeber/my-project-api/blob/master/LICENSE)
